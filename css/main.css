@@ -1,0 +1,33 @@
+body{
+    background-color: brown;
+}
+.text-block{
+    color: white;
+    border: 5px solid white;
+    /*border-width: 5px;*/
+    border-top-width: 12px;
+    border-right-width: 7px;
+    border-bottom-width: 10px;
+    border-left-width: 8px;
+    /*border-style: solid;*/
+    border-top-style: dotted;
+    border-right-style: inset;
+    border-bottom-style: dashed;
+    border-left-style: double;
+    /*border-color: white;*/
+    border-top-color: green;
+    border-right-color: springgreen;
+    border-bottom-color: black;
+    border-left-color: blue;
+    text-align: left; /* left(default code),center,right,justify */
+    text-transform: none; /* none(default code),uppercase,lowercase,capitalize */
+    text-decoration: none; /* none(default code),underline,overline,line-through */
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    line-height: 30px;
+}
+/*a{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}*/
